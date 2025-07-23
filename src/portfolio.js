@@ -46,7 +46,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER AND AI Engineer - Spend my day learning new Tech Stack and Creating AI Agents",
+  subTitle: "FULL STACK DEVELOPER AND AI Engineer - Spend my day learning new Tech Stack and Creating AI Agents",
   skills: [
     emoji(
       "⚡ Develop highly interactive Full Stack Applications and RAG ChatBots for your Websites"

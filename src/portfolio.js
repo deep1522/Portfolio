@@ -255,7 +255,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "RAG Agents",
-          // url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-83ad8803-7edd-45b4-a155-5deade9448f9.pdf"
         }
       ]
     },

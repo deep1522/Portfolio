@@ -154,14 +154,7 @@ const workExperiences = {
       date: "march 2023 - july 2023",
       desc: "Integrated RESTful APIs to dynamically fetch, display, and update content across the application, significantlyimproving responsiveness and user experience.",
       
-    }
-    // {
-    //   role: "Front-End Developer",
-    //   company: "Quora",
-    //   companylogo: require("./assets/images/quoraLogo.png"),
-    //   date: "May 2017 – May 2018",
-    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    // },
+    },
     {
       role: "AI Engineer Intern",
       company: "GyftEasy",

@@ -162,13 +162,13 @@ const workExperiences = {
     //   date: "May 2017 – May 2018",
     //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     // },
-    // {
-    //   role: "Software Engineer Intern",
-    //   company: "Airbnb",
-    //   companylogo: require("./assets/images/airbnbLogo.png"),
-    //   date: "Jan 2015 – Sep 2015",
-    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    // }
+    {
+      role: "AI Engineer Intern",
+      company: "GyftEasy",
+      // companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "May 2025 – August 2025",
+      desc: "Research and development of AI-driven solutions to enhance products. Data collected, pre-processed, and analyzed to build machine learning models.Supported product and engineering teams in AI integration and testing."
+    }
   ]
 };
 

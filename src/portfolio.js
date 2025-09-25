@@ -182,7 +182,7 @@ const bigProjects = {
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "AskMyDocs",
-      projectDesc: "I built a conversational AI system using LangGraph to streamline employee training and knowledge transfer, enabling new hires to query role-specific information through natural language. The solution leverages a Retrieval-Augmented Generation (RAG) pipeline that boosted response accuracy to 95%, with continuous knowledge syncing from Google Drive to ensure up-to-date context without manual updates. Integrated Identity and Access Management enforces secure, tiered access, reducing onboarding time by 15% while maintaining compliance and data security.",
+      projectDesc: "A conversational AI system built with LangGraph to streamline employee training and knowledge transfer, enabling new hires to query role-specific information through natural language. It leverages a Retrieval-Augmented Generation (RAG) pipeline with 95% response accuracy, continuous knowledge syncing from Google Drive for always up-to-date context, and Identity and Access Management–based secure, tiered access to ensure compliance and data security.",
       footerLink: [
         {
           name: "Visit Repository",

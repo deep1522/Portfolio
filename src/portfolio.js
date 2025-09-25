@@ -182,7 +182,7 @@ const bigProjects = {
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "AskMyDocs",
-      projectDesc: " Built an AI-powered app to upload and query files (PDF, DOCX, TXT, JSON, CSV) via a Flowise chatbot. Used OpenAI embeddings and Pinecone for semantic indexing and vector retrieval. Integrated RAG with custom prompts and streaming via Flowise REST API.",
+      projectDesc: "I built a conversational AI system using LangGraph to streamline employee training and knowledge transfer, enabling new hires to query role-specific information through natural language. The solution leverages a Retrieval-Augmented Generation (RAG) pipeline that boosted response accuracy to 95%, with continuous knowledge syncing from Google Drive to ensure up-to-date context without manual updates. Integrated Identity and Access Management enforces secure, tiered access, reducing onboarding time by 15% while maintaining compliance and data security.",
       footerLink: [
         {
           name: "Visit Repository",
@@ -210,6 +210,17 @@ const bigProjects = {
         {
           name: "Visit Repository",
           url: "http://github.com/deep1522/AXION"
+        }
+      ]
+    },
+    {
+      // image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Edith",
+      projectDesc: "I developed a personal vision assistant capable of analyzing both the user’s environment and on-screen activities to provide context-aware assistance. It intelligently interprets visual inputs, whether from the surroundings or the user’s screen, to interact with queries related to programming, productivity tasks, or real-world objects. This enables seamless, multimodal support by combining vision understanding with natural language interaction for a more intuitive and efficient user experience.",
+      footerLink: [
+        {
+          name: "Visit Repository",
+          url: "https://github.com/deep1522/EDITH---AI-Vision-Assistant"
         }
       ]
     }

@@ -21,12 +21,12 @@ const illustration = {
 
 const greeting = {
   username: "Deep Yadav",
-  title: "Hi all, I'm Deep",
+  title: "Hi all, It's Deep yadav",
   subTitle: emoji(
-    "I'm a Full Stack Developer and AI Engineer with hands-on experience building AI-powered applications and automation workflows."
+    "A Software Developer and an AI Engineer with hands-on experience building AI-powered applications and automation workflows."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ISUXm_k9iUac8hRABk-eN5JSw9KwuvY1/view?usp=drivesdk", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Y0aZFSvWh-AAHMz1HCoW7ubWIEPY0364/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
